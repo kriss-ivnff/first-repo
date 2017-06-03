@@ -2,3 +2,5 @@
 Upfate with Tortoise
 Tortoise
 Softuni
+GitBash
+Upfate with Tortoise
